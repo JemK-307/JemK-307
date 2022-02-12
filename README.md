@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @JemK-307
 - 👀 I’m newbie in python and front-end
-- 🌱 I’m currently learning python, html, css...
+- 🌱 I’m currently learning python, html, css and js
+- ✨ Found myself in 30s....
 
 <!---
 JemK-307/JemK-307 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
